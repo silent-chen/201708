@@ -1,0 +1,10 @@
+当前进度：
+1.docker tutorial 基本完成了
+2.手写体识别完成了本地的编写，tensorflow的变量和图的存储和重建。
+3.对flask和rest api有了一定的认识，明白了其工作的原理和背景。
+接下来的工作：
+1.把本地的程序放在Flask的服务器上
+2.利用rest api将远程发送的图片和我们的服务器建立连接
+问题：
+1.运行时出现terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
